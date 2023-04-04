@@ -1,0 +1,4 @@
+[
+    { "name": "Nicholas Farkas", "user_name": "nfarkas", "password": "password123", "status": "active", "isAdmin": "1" },
+    { "name": "Jack Smith", "user_name": "jsmith", "password": "password321", "status": "active", "isAdmin": "0" }
+]
